@@ -65,12 +65,7 @@ a {
     padding: 10px;
     background-color: #F0EBE8;
 }
-.wrapper__footer{
-    background-color: #45484D;
-    height: 20px;
-    display: inline-block;
-    width: 100%;
-}
+
 
 /** Titles **/
 .title__header{
