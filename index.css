@@ -5,9 +5,9 @@ address, big, img, small, strong,
 u, i, ul, li, form, label {
 	margin: 0;
 	padding: 0;
-    border: 0;
+	border: 0;
 	outline: 0;
-    box-sizing: border-box;
+	box-sizing: border-box;
 }
 body {
     line-height: 1;
