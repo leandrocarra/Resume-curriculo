@@ -159,3 +159,7 @@ a {
     border: none;
     border-collapse: collapse;
  }
+
+ .cover-letter {
+    text-align: left
+ }
